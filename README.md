@@ -6,11 +6,8 @@ SQL Queries for insights on pizza order and revenue
 ![image](https://github.com/user-attachments/assets/a8bdfec5-4032-42d5-b5cf-d16aeec37c62)
 ![image](https://github.com/user-attachments/assets/363297ea-1d6a-441a-b56a-0791931cbc41)
 ![image](https://github.com/user-attachments/assets/d1c5f43a-4945-4b20-a86a-a6752ce4a836)
-![image](https://github.com/user-attachments/assets/8b560f91-edf8-4200-8afc-6034d2cb82f8)
 ![image](https://github.com/user-attachments/assets/30a1c92f-4ed8-4671-870c-26a87543cb88)
-![image](https://github.com/user-attachments/assets/4e4992b3-f8cb-4cd3-a8ec-363f7ced0ac4)
 ![image](https://github.com/user-attachments/assets/1c533bfa-c066-4ee4-a8b1-98c3c57cfa86)
-![image](https://github.com/user-attachments/assets/eb1ef145-2e19-4a6c-bd5a-fdabbbf144c3)
 ![image](https://github.com/user-attachments/assets/79f48fb8-4a4a-40d2-99be-33c753d74796)
 ![image](https://github.com/user-attachments/assets/57a04dbd-ad92-4f0c-aabf-b8a02c450266)
 
